@@ -38,15 +38,15 @@ const Footer = () => {
             <h5 className='footer__title'>Контакты</h5>
             <ListGroup className='delivery__time-list'>
               <ListGroupItem className='delivery__time-item border-0 ps-0'>
-                <span>Адрес: 123 Olympiakatu, Espoo, FI</span>
+                <span>Адрес: ул. Горького, 123</span>
               </ListGroupItem>
 
               <ListGroupItem className='delivery__time-item border-0 ps-0'>
-                <span>Телефон: +358 412 345 023</span>
+                <span>Телефон: +996 705-283-716</span>
               </ListGroupItem>
 
               <ListGroupItem className='delivery__time-item border-0 ps-0'>
-                <span>Email: contact@foodie.com</span>
+                <span>Email: teztatym@gmail.com</span>
               </ListGroupItem>
             </ListGroup>
           </Col>
